@@ -1,0 +1,159 @@
+{
+  "fetched_at": "2026-09-02T14:07:28.852656Z",
+  "place_id": 2583,
+  "taxon_id": 47224,
+  "quality_grade": "research",
+  "window_days": 28,
+  "d1": "2026-08-05",
+  "d2": "2026-09-02",
+  "total_results": 21,
+  "species_counts": [
+    {
+      "count": 16,
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "rank": "species"
+    },
+    {
+      "count": 5,
+      "taxon_id": 49150,
+      "common": "Gulf Fritillary",
+      "scientific": "Dione vanillae",
+      "rank": "species"
+    },
+    {
+      "count": 4,
+      "taxon_id": 48662,
+      "common": "Monarch",
+      "scientific": "Danaus plexippus",
+      "rank": "species"
+    },
+    {
+      "count": 4,
+      "taxon_id": 132553,
+      "common": "Mallow Scrub-Hairstreak",
+      "scientific": "Strymon istapa",
+      "rank": "species"
+    },
+    {
+      "count": 3,
+      "taxon_id": 51743,
+      "common": "Queen",
+      "scientific": "Danaus gilippus",
+      "rank": "species"
+    },
+    {
+      "count": 3,
+      "taxon_id": 60551,
+      "common": "Eastern Tiger Swallowtail",
+      "scientific": "Papilio glaucus",
+      "rank": "species"
+    },
+    {
+      "count": 2,
+      "taxon_id": 49133,
+      "common": "Red Admiral",
+      "scientific": "Vanessa atalanta",
+      "rank": "species"
+    },
+    {
+      "count": 2,
+      "taxon_id": 49766,
+      "common": "Zebra Longwing",
+      "scientific": "Heliconius charithonia",
+      "rank": "species"
+    },
+    {
+      "count": 2,
+      "taxon_id": 50071,
+      "common": "Horace's Duskywing",
+      "scientific": "Erynnis horatius",
+      "rank": "species"
+    },
+    {
+      "count": 2,
+      "taxon_id": 50075,
+      "common": "Atala",
+      "scientific": "Eumaeus atala",
+      "rank": "species"
+    },
+    {
+      "count": 2,
+      "taxon_id": 50340,
+      "common": "Fiery Skipper",
+      "scientific": "Hylephila phyleus",
+      "rank": "species"
+    },
+    {
+      "count": 2,
+      "taxon_id": 1457202,
+      "common": "White Checkered-Skipper",
+      "scientific": "Burnsius albezens",
+      "rank": "species"
+    },
+    {
+      "count": 2,
+      "taxon_id": 1607210,
+      "common": "Mangrove Skipper",
+      "scientific": "Phocides batabano",
+      "rank": "species"
+    },
+    {
+      "count": 1,
+      "taxon_id": 48550,
+      "common": "Cloudless Sulphur",
+      "scientific": "Phoebis sennae",
+      "rank": "species"
+    },
+    {
+      "count": 1,
+      "taxon_id": 50931,
+      "common": "Gray Hairstreak",
+      "scientific": "Strymon melinus",
+      "rank": "species"
+    },
+    {
+      "count": 1,
+      "taxon_id": 51536,
+      "common": "Great Southern White",
+      "scientific": "Ascia monuste",
+      "rank": "species"
+    },
+    {
+      "count": 1,
+      "taxon_id": 58509,
+      "common": "Delaware Skipper",
+      "scientific": "Anatrytone logan",
+      "rank": "species"
+    },
+    {
+      "count": 1,
+      "taxon_id": 67324,
+      "common": "Barred Yellow",
+      "scientific": "Eurema daira",
+      "rank": "species"
+    },
+    {
+      "count": 1,
+      "taxon_id": 69940,
+      "common": "Ceraunus Blue",
+      "scientific": "Hemiargus ceraunus",
+      "rank": "species"
+    },
+    {
+      "count": 1,
+      "taxon_id": 85024,
+      "common": "Eastern Giant Swallowtail",
+      "scientific": "Heraclides cresphontes",
+      "rank": "species"
+    },
+    {
+      "count": 1,
+      "taxon_id": 122281,
+      "common": "Red-banded Hairstreak",
+      "scientific": "Calycopis cecrops",
+      "rank": "species"
+    }
+  ]
+}

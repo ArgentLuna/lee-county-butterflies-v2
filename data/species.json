@@ -1,0 +1,1225 @@
+{
+  "title": "Cape Coral butterflies",
+  "home_line": "What's flying here",
+  "sub": "Lee County. Open this in the yard.",
+  "timezone": "America/New_York",
+  "species": [
+    {
+      "id": "white-peacock",
+      "common_name": "White Peacock",
+      "scientific_name": "Anartia jatrophae",
+      "order": 1,
+      "august_chip": "Common now",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "This is the butterfly of Cape Coral canals in late August. Water hyssop and frogfruit are still thick on ditch edges, and White Peacocks stay low over that wet ground. People photographed one in Fort Myers today.",
+      "where_here": "Canal banks, wet ditches, pond edges, weedy yards.",
+      "hosts": [
+        {
+          "common": "Water hyssop",
+          "scientific": "Bacopa monnieri"
+        },
+        {
+          "common": "turkey tangle frogfruit",
+          "scientific": "Phyla nodiflora"
+        }
+      ],
+      "look_alikes": null,
+      "migration": null,
+      "photos": {
+        "hero": "img/white-peacock-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/white-peacock-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "yellow/white"
+        ],
+        "place": [
+          "yard",
+          "canal"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "gulf-fritillary",
+      "common_name": "Gulf Fritillary",
+      "scientific_name": "Agraulis vanillae",
+      "order": 2,
+      "august_chip": "Common now",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        8,
+        9,
+        10
+      ],
+      "garden_colonizer": false,
+      "why_now": "Passionvine is still going, and late summer is when this species builds up before the fall push south. If you have corkystem or maypop, you are looking at its kitchen.",
+      "where_here": "Yards, weedy lots, parks, roadsides.",
+      "hosts": [
+        {
+          "common": "Corkystem passionflower",
+          "scientific": "Passiflora suberosa"
+        },
+        {
+          "common": "purple passionflower / maypop",
+          "scientific": "Passiflora incarnata"
+        },
+        {
+          "common": "yellow passionflower",
+          "scientific": "Passiflora lutea"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Julia",
+          "how": "Julia is plainer orange and has no silver spots underneath. Gulf Fritillary is silver-spotted below."
+        }
+      ],
+      "migration": "Year-round here, plus a real late-summer and fall pulse into the peninsula. Peak months August\u2013October.",
+      "photos": {
+        "hero": "img/gulf-fritillary-hero.jpg",
+        "underside": "img/gulf-fritillary-underside.jpg",
+        "caterpillar": "img/gulf-fritillary-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "orange"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here",
+          "moving through"
+        ]
+      }
+    },
+    {
+      "id": "zebra-longwing",
+      "common_name": "Zebra Longwing",
+      "scientific_name": "Heliconius charithonia",
+      "order": 3,
+      "august_chip": "Common now",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "Florida\u2019s state butterfly, and a year-round Cape Coral resident. Passionvine again. They live for months, take pollen as well as nectar, and roost together at night, so a yard that has them in August often still has them in September.",
+      "where_here": "Yards, hammock edges, parks, shrubby thickets.",
+      "hosts": [
+        {
+          "common": "Same passionvines as Gulf Fritillary, especially corkystem.",
+          "scientific": null
+        }
+      ],
+      "look_alikes": null,
+      "migration": null,
+      "photos": {
+        "hero": "img/zebra-longwing-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/zebra-longwing-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "black or striped"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "julia",
+      "common_name": "Julia",
+      "scientific_name": "Dryas iulia",
+      "order": 4,
+      "august_chip": "Possible",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "Same passionvine yards as the longwings. Less noisy than Gulf Fritillary this month, but it is a resident. Long narrow orange wings, no silver underneath.",
+      "where_here": "Yards, hammock edges.",
+      "hosts": [
+        {
+          "common": "Corkystem passionflower",
+          "scientific": "Passiflora suberosa"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Gulf Fritillary",
+          "how": "silver below"
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/julia-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/julia-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "orange"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "monarch",
+      "common_name": "Monarch",
+      "scientific_name": "Danaus plexippus",
+      "order": 5,
+      "august_chip": "Common now",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        10,
+        11
+      ],
+      "garden_colonizer": false,
+      "why_now": "You can see Monarchs in Cape Coral any month. Late August is mostly our local breeding insects on milkweed, not the Mexico-roost story. Migratory adults use Florida too, but that wave is later. A bright one over tropical milkweed in a yard is the expected August sighting.",
+      "where_here": "Yards, parks, fields, marshes.",
+      "hosts": [
+        {
+          "common": "Native milkweeds",
+          "scientific": "Asclepias perennis, A. tuberosa, A. humistrata, A. incarnata"
+        },
+        {
+          "common": "the common garden scarlet milkweed",
+          "scientific": "Asclepias curassavica"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Queen",
+          "how": "Queen is mahogany, not bright orange."
+        },
+        {
+          "name": "Viceroy",
+          "how": "Viceroy is smaller with a black line across the hindwing."
+        },
+        {
+          "name": "Soldier",
+          "how": "Soldier is scarce here and has a blotchy pale band under the hindwing."
+        }
+      ],
+      "migration": "Resident brood plus eastern migrants. Not a single roost town. Peak of the migrant story is October\u2013November.",
+      "photos": {
+        "hero": "img/monarch-hero.jpg",
+        "underside": "img/monarch-underside.jpg",
+        "caterpillar": "img/monarch-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "orange"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here",
+          "moving through"
+        ]
+      }
+    },
+    {
+      "id": "queen",
+      "common_name": "Queen",
+      "scientific_name": "Danaus gilippus",
+      "order": 6,
+      "august_chip": "Common now",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "Same milkweed yards as Monarch, plus white twinvine. A darker orange-brown \u201cMonarch\u201d in North Fort Myers this week is often a Queen. They live here year-round.",
+      "where_here": "Yards, pineland, fields, marshes.",
+      "hosts": [
+        {
+          "common": "Milkweeds",
+          "scientific": "Asclepias"
+        },
+        {
+          "common": "white twinvine",
+          "scientific": "Funastrum clausum"
+        },
+        {
+          "common": "Florida milkvine",
+          "scientific": "Matelea floridana"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Monarch, Soldier, Viceroy",
+          "how": "Use the hindwing line (Viceroy) and the color (mahogany vs bright orange)."
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/queen-hero.jpg",
+        "underside": "img/queen-underside.jpg",
+        "caterpillar": "img/queen-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "orange"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "viceroy",
+      "common_name": "Viceroy",
+      "scientific_name": "Limenitis archippus",
+      "order": 7,
+      "august_chip": "Possible",
+      "flight_months": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "The point of this card is the look-alike. Florida Viceroys often run dark, Queen-colored. Check for the black line across the hindwing. Willows along fresh water, not milkweed.",
+      "where_here": "Wet edges, freshwater canals, marshes, preserves. Not a dry lawn butterfly.",
+      "hosts": [
+        {
+          "common": "Willows",
+          "scientific": "Salix spp.",
+          "extra": "especially Carolina willow",
+          "scientific2": "Salix caroliniana"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Queen, Monarch",
+          "how": "The hindwing black line is the mark."
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/viceroy-hero.jpg",
+        "underside": "img/viceroy-underside.jpg",
+        "caterpillar": "img/viceroy-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "orange"
+        ],
+        "place": [
+          "canal"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "giant-swallowtail",
+      "common_name": "Giant Swallowtail",
+      "scientific_name": "Papilio cresphontes",
+      "order": 8,
+      "august_chip": "Common now",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "Cape Coral yards with citrus or wild lime still have orange-dog caterpillars and the big yellow-banded adults. Year-round in Florida. The large one sailing through a backyard in August is usually this.",
+      "where_here": "Yards, citrus, hammock edges, pineland.",
+      "hosts": [
+        {
+          "common": "Wild lime",
+          "scientific": "Zanthoxylum fagara"
+        },
+        {
+          "common": "Hercules\u2019-club",
+          "scientific": "Zanthoxylum clava-herculis"
+        },
+        {
+          "common": "cultivated citrus",
+          "scientific": null
+        },
+        {
+          "common": "common rue",
+          "scientific": "Ruta graveolens"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Palamedes",
+          "how": "straighter yellow band; more swamp bay country"
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/giant-swallowtail-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/giant-swallowtail-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "yellow/white"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "polydamas-swallowtail",
+      "common_name": "Polydamas Swallowtail",
+      "scientific_name": "Battus polydamas",
+      "order": 9,
+      "august_chip": "Possible",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "The tailless black swallowtail in gardens that grow Dutchman\u2019s pipe. Regular here when the vine is planted. Not a migrant.",
+      "where_here": "Yards and gardens with Aristolochia.",
+      "hosts": [
+        {
+          "common": "Calico flower",
+          "scientific": "Aristolochia elegans"
+        },
+        {
+          "common": "other pipevines",
+          "scientific": "Aristolochia spp."
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Pipevine Swallowtail",
+          "how": "Pipevine Swallowtail has tails and is only a stray in south Florida."
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/polydamas-swallowtail-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/polydamas-swallowtail-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "black or striped"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "black-swallowtail",
+      "common_name": "Black Swallowtail",
+      "scientific_name": "Papilio polyxenes",
+      "order": 10,
+      "august_chip": "Possible",
+      "flight_months": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "Fennel, parsley, and dill in the garden. Still in season through November. Quieter on iNaturalist this August than the Giants, but a regular yard resident.",
+      "where_here": "Yards, weedy lots, canal edges.",
+      "hosts": [
+        {
+          "common": "Fennel, parsley, dill, carrot, celery",
+          "scientific": null
+        },
+        {
+          "common": "mock bishopweed",
+          "scientific": "Ptilimnium capillaceum"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Spicebush",
+          "how": "Spicebush (not a first-ship regular). Female can look dark; check the orange-centered hindwing spot."
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/black-swallowtail-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/black-swallowtail-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "black or striped"
+        ],
+        "place": [
+          "yard",
+          "canal"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "cloudless-sulphur",
+      "common_name": "Cloudless Sulphur",
+      "scientific_name": "Phoebis sennae",
+      "order": 11,
+      "august_chip": "Possible",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        9,
+        10
+      ],
+      "garden_colonizer": false,
+      "why_now": "The strongest migrant we will actually watch, but Cape Coral sits south of where most fall Cloudless Sulphurs stop. Late August is early. What you see now is mostly local breeding on partridge pea and senna. The big yellow one high over the street in October is the pulse.",
+      "where_here": "Yards, weedy lots, roadsides, open parks.",
+      "hosts": [
+        {
+          "common": "Partridge pea",
+          "scientific": "Chamaecrista fasciculata"
+        },
+        {
+          "common": "sensitive pea",
+          "scientific": "Chamaecrista nictitans"
+        },
+        {
+          "common": "sicklepod",
+          "scientific": "Senna obtusifolia"
+        },
+        {
+          "common": "privet wild sensitive plant",
+          "scientific": "Senna ligustrina"
+        },
+        {
+          "common": "Christmas senna",
+          "scientific": "Senna pendula",
+          "extra": "is a common ornamental host and invasive here \u2014 do not tell people to plant it."
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Orange-barred",
+          "how": "orange patch on the hindwing"
+        },
+        {
+          "name": "Large Orange",
+          "how": "apricot, not canary"
+        },
+        {
+          "name": "",
+          "how": "Cloudless male is the unmarked yellow one."
+        }
+      ],
+      "migration": "Yes. Year-round resident plus late-summer/fall buildup. Peak September\u2013October. Most fall migrants stop north of Lake Okeechobee.",
+      "photos": {
+        "hero": "img/cloudless-sulphur-hero.jpg",
+        "underside": "img/cloudless-sulphur-underside.jpg",
+        "caterpillar": "img/cloudless-sulphur-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "yellow/white"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here",
+          "moving through"
+        ]
+      }
+    },
+    {
+      "id": "barred-yellow",
+      "common_name": "Barred Yellow",
+      "scientific_name": "Eurema daira",
+      "order": 12,
+      "august_chip": "Common now",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "Small yellow, still being photographed in Lee County this month. Weedy lots and low plants, not a canopy butterfly.",
+      "where_here": "Weedy lots, roadsides, fields, fallow ground.",
+      "hosts": [
+        {
+          "common": "Pencil flower",
+          "scientific": "Stylosanthes biflora"
+        },
+        {
+          "common": "shyleaf",
+          "scientific": "Aeschynomene americana"
+        },
+        {
+          "common": "sticky jointvetch",
+          "scientific": "Aeschynomene viscidula"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Little Yellow",
+          "how": "Little Yellow is plain lemon."
+        },
+        {
+          "name": "Dainty Sulphur",
+          "how": "Dainty Sulphur is much smaller."
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/barred-yellow-hero.jpg",
+        "underside": "img/barred-yellow-underside.jpg",
+        "caterpillar": "img/barred-yellow-caterpillar.svg"
+      },
+      "filters": {
+        "color": [
+          "yellow/white",
+          "blue or small"
+        ],
+        "place": [],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "great-southern-white",
+      "common_name": "Great Southern White",
+      "scientific_name": "Ascia monuste",
+      "order": 13,
+      "august_chip": "Possible",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "Coastal, salt-edge, sometimes inland as a visitor. Local flights more than a long-distance migrant story. Thin this August compared with White Peacock.",
+      "where_here": "Salt marsh, beach, mangrove edge, coastal lots.",
+      "hosts": [
+        {
+          "common": "Saltwort",
+          "scientific": "Batis maritima"
+        },
+        {
+          "common": "coastal searocket",
+          "scientific": "Cakile lanceolata"
+        },
+        {
+          "common": "Virginia peppergrass",
+          "scientific": "Lepidium virginicum"
+        },
+        {
+          "common": "bayleaf capertree",
+          "scientific": "Capparis flexuosa"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "",
+          "how": "Larger and cleaner than a cabbage white. Turquoise antennal clubs help."
+        }
+      ],
+      "migration": "Local coastal movements, not a long-haul migrant.",
+      "photos": {
+        "hero": "img/great-southern-white-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/great-southern-white-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "yellow/white"
+        ],
+        "place": [
+          "mangrove"
+        ],
+        "kind": [
+          "lives here",
+          "moving through"
+        ]
+      }
+    },
+    {
+      "id": "atala",
+      "common_name": "Atala",
+      "scientific_name": "Eumaeus atala",
+      "order": 14,
+      "august_chip": "Garden colonizer",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": true,
+      "why_now": "If you have coontie, look here. Atala is not an old Cape Coral hammock butterfly. It is a southeast Florida species that has been colonizing planted coontie on this coast. People are photographing it in Lee County this month, including gardens.",
+      "where_here": "Gardens with coontie or other cycads.",
+      "hosts": [
+        {
+          "common": "Coontie",
+          "scientific": "Zamia integrifolia / Z. pumila"
+        },
+        {
+          "common": "garden cycads",
+          "scientific": null
+        }
+      ],
+      "look_alikes": null,
+      "migration": null,
+      "photos": {
+        "hero": "img/atala-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/atala-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "black or striped"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "fiery-skipper",
+      "common_name": "Fiery Skipper",
+      "scientific_name": "Hylephila phyleus",
+      "order": 15,
+      "august_chip": "Common now",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "The small orange skipper on St. Augustine and Bermuda. Photographed through mid-August. If it stays low over the lawn, start here.",
+      "where_here": "Lawns, weedy grass, parks, roadsides.",
+      "hosts": [
+        {
+          "common": "Bermudagrass",
+          "scientific": "Cynodon dactylon"
+        },
+        {
+          "common": "St. Augustinegrass",
+          "scientific": "Stenotaphrum secundatum"
+        },
+        {
+          "common": "crabgrass",
+          "scientific": "Digitaria spp."
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Whirlabout",
+          "how": "Whirlabout has big brown blotches under the hindwing. Fiery male has small scattered black dots below."
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/fiery-skipper-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/fiery-skipper-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "orange",
+          "blue or small"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "long-tailed-skipper",
+      "common_name": "Long-tailed Skipper",
+      "scientific_name": "Urbanus proteus",
+      "order": 16,
+      "august_chip": "Possible",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [
+        10
+      ],
+      "garden_colonizer": false,
+      "why_now": "The one with tails and a green body, on beans and beggarweeds. A real fall migrant on the peninsula (north Florida median mid-October), and a year-round south Florida resident. Late August is early for the pulse; do not expect a cloud of them yet.",
+      "where_here": "Yards, bean patches, weedy lots, garden edges.",
+      "hosts": [
+        {
+          "common": "Ticktrefoils",
+          "scientific": "Desmodium"
+        },
+        {
+          "common": "butterfly peas",
+          "scientific": "Centrosema"
+        },
+        {
+          "common": "milkpeas",
+          "scientific": "Galactia"
+        },
+        {
+          "common": "garden beans",
+          "scientific": "Phaseolus"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Dorantes Longtail",
+          "how": "Dorantes Longtail is plain brown, no green sheen."
+        }
+      ],
+      "migration": "Yes. Peak around October. Thin here this August.",
+      "photos": {
+        "hero": "img/long-tailed-skipper-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/long-tailed-skipper-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "black or striped"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here",
+          "moving through"
+        ]
+      }
+    },
+    {
+      "id": "mangrove-buckeye",
+      "common_name": "Mangrove Buckeye",
+      "scientific_name": "Junonia neildi",
+      "order": 17,
+      "august_chip": "Possible",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "The buckeye of black mangrove, not the weedy inland one. August history on the coast is strong even when a given week is quiet. If you are on a Cape Coral canal that still has mangrove, this is the buckeye to expect.",
+      "where_here": "Mangrove, salt marsh, coastal.",
+      "hosts": [
+        {
+          "common": "Black mangrove",
+          "scientific": "Avicennia germinans"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Common Buckeye",
+          "how": "Common Buckeye (Junonia coenia) is the weedy inland one. We use J. neildi for the mangrove insect. Older signs may say genoveva or evarete; do not copy those."
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/mangrove-buckeye-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/mangrove-buckeye-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "orange"
+        ],
+        "place": [
+          "canal",
+          "mangrove"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "mangrove-skipper",
+      "common_name": "Mangrove Skipper",
+      "scientific_name": "Phocides pigmalion",
+      "order": 18,
+      "august_chip": "Common now",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "Big dark skipper of red mangrove. Still being seen in mid-August. If you are along a mangrove shoreline, this is the one.",
+      "where_here": "Mangrove, coastal.",
+      "hosts": [
+        {
+          "common": "Red mangrove",
+          "scientific": "Rhizophora mangle"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Monk Skipper",
+          "how": "Monk Skipper is browner, less blue, no white forewing spots."
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/mangrove-skipper-hero.jpg",
+        "underside": null,
+        "caterpillar": "img/mangrove-skipper-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "black or striped"
+        ],
+        "place": [
+          "mangrove"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "ceraunus-blue",
+      "common_name": "Ceraunus Blue",
+      "scientific_name": "Hemiargus ceraunus",
+      "order": 19,
+      "august_chip": "Common now",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "Tiny blue of disturbed ground. Recorded this month. Easy to walk past.",
+      "where_here": "Weedy lots, roadsides, scrub, open ground.",
+      "hosts": [
+        {
+          "common": "Partridge pea",
+          "scientific": "Chamaecrista fasciculata"
+        },
+        {
+          "common": "sensitive pea",
+          "scientific": "Chamaecrista nictitans"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Cassius Blue",
+          "how": "Cassius Blue is zebra-striped below and sits on plumbago. Ceraunus is gray-dotted with two orange-capped hindwing spots."
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/ceraunus-blue-hero.jpg",
+        "underside": "img/ceraunus-blue-underside.jpg",
+        "caterpillar": "img/ceraunus-blue-caterpillar.svg"
+      },
+      "filters": {
+        "color": [
+          "blue or small"
+        ],
+        "place": [],
+        "kind": [
+          "lives here"
+        ]
+      }
+    },
+    {
+      "id": "cassius-blue",
+      "common_name": "Cassius Blue",
+      "scientific_name": "Leptotes cassius",
+      "order": 20,
+      "august_chip": "Possible",
+      "flight_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "peak_months": [],
+      "garden_colonizer": false,
+      "why_now": "The garden blue on plumbago. Year-round resident. If the yard has leadwort, look here before you call every small blue a Ceraunus.",
+      "where_here": "Yards, gardens, hammock edges, coastal lots.",
+      "hosts": [
+        {
+          "common": "Cape leadwort / plumbago",
+          "scientific": "Plumbago auriculata"
+        },
+        {
+          "common": "native doctorbush",
+          "scientific": "Plumbago zeylanica"
+        },
+        {
+          "common": "milkpeas",
+          "scientific": "Galactia"
+        }
+      ],
+      "look_alikes": [
+        {
+          "name": "Ceraunus Blue",
+          "how": "dotted, not striped, underneath"
+        }
+      ],
+      "migration": null,
+      "photos": {
+        "hero": "img/cassius-blue-hero.jpg",
+        "underside": "img/cassius-blue-underside.jpg",
+        "caterpillar": "img/cassius-blue-caterpillar.jpg"
+      },
+      "filters": {
+        "color": [
+          "blue or small"
+        ],
+        "place": [
+          "yard"
+        ],
+        "kind": [
+          "lives here"
+        ]
+      }
+    }
+  ]
+}

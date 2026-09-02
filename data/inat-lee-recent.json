@@ -1,0 +1,832 @@
+{
+  "fetched_at": "2026-09-02T14:04:30.462510Z",
+  "place_id": 2583,
+  "taxon_id": 47224,
+  "quality_grade": "research",
+  "window_days": 28,
+  "total_results": 57,
+  "observations": [
+    {
+      "id": 396450177,
+      "observed_on": "2026-09-01",
+      "taxon_id": 48662,
+      "common": "Monarch",
+      "scientific": "Danaus plexippus",
+      "user": "milomilo",
+      "uri": "https://www.inaturalist.org/observations/396450177",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727043661/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) milomilo, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 396377587,
+      "observed_on": "2026-09-01",
+      "taxon_id": 49133,
+      "common": "Red Admiral",
+      "scientific": "Vanessa atalanta",
+      "user": "amezh1",
+      "uri": "https://www.inaturalist.org/observations/396377587",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/726918332/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Andrew Mezheritskiy, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 396150127,
+      "observed_on": "2026-08-31",
+      "taxon_id": 51743,
+      "common": "Queen",
+      "scientific": "Danaus gilippus",
+      "user": "rvanbla",
+      "uri": "https://www.inaturalist.org/observations/396150127",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/726464755/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) rvanbla, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 395523848,
+      "observed_on": "2026-08-29",
+      "taxon_id": 132553,
+      "common": "Mallow Scrub-Hairstreak",
+      "scientific": "Strymon istapa",
+      "user": "diego26252",
+      "uri": "https://www.inaturalist.org/observations/395523848",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/725243259/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) diego, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 395523597,
+      "observed_on": "2026-08-29",
+      "taxon_id": 50071,
+      "common": "Horace's Duskywing",
+      "scientific": "Erynnis horatius",
+      "user": "diego26252",
+      "uri": "https://www.inaturalist.org/observations/395523597",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/725242696/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) diego, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 395316453,
+      "observed_on": "2026-08-28",
+      "taxon_id": 48662,
+      "common": "Monarch",
+      "scientific": "Danaus plexippus",
+      "user": "diego26252",
+      "uri": "https://www.inaturalist.org/observations/395316453",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/724837449/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) diego, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 395308701,
+      "observed_on": "2026-08-28",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "seidlee1",
+      "uri": "https://www.inaturalist.org/observations/395308701",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/724821827/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) seidlee1, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 394667302,
+      "observed_on": "2026-08-26",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "lawsonrussoooo",
+      "uri": "https://www.inaturalist.org/observations/394667302",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/723561035/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) lawsonrussoooo, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 394940471,
+      "observed_on": "2026-08-25",
+      "taxon_id": 60551,
+      "common": "Eastern Tiger Swallowtail",
+      "scientific": "Papilio glaucus",
+      "user": "geraldsavesflorida",
+      "uri": "https://www.inaturalist.org/observations/394940471",
+      "photos": []
+    },
+    {
+      "id": 394264363,
+      "observed_on": "2026-08-24",
+      "taxon_id": 51743,
+      "common": "Queen",
+      "scientific": "Danaus gilippus",
+      "user": "jganjay",
+      "uri": "https://www.inaturalist.org/observations/394264363",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/722771536/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Jason, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 394118887,
+      "observed_on": "2026-08-23",
+      "taxon_id": 48662,
+      "common": "Monarch",
+      "scientific": "Danaus plexippus",
+      "user": "eab52",
+      "uri": "https://www.inaturalist.org/observations/394118887",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/722486356/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) eab52, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 394225705,
+      "observed_on": "2026-08-23",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "plawrynpx",
+      "uri": "https://www.inaturalist.org/observations/394225705",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/722694599/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) plawrynpx, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 394019873,
+      "observed_on": "2026-08-23",
+      "taxon_id": 60551,
+      "common": "Eastern Tiger Swallowtail",
+      "scientific": "Papilio glaucus",
+      "user": "pinkwater",
+      "uri": "https://www.inaturalist.org/observations/394019873",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/722291326/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Isa, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 393171955,
+      "observed_on": "2026-08-21",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "mrkmieciak1298",
+      "uri": "https://www.inaturalist.org/observations/393171955",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/720629687/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) mrkmieciak1298, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 393168670,
+      "observed_on": "2026-08-21",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "hjcollins1501",
+      "uri": "https://www.inaturalist.org/observations/393168670",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/720623259/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) hjcollins1501, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 393168656,
+      "observed_on": "2026-08-21",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "alexandra_penny",
+      "uri": "https://www.inaturalist.org/observations/393168656",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/720623025/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Alexandra Penny, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 393083423,
+      "observed_on": "2026-08-20",
+      "taxon_id": 51536,
+      "common": "Great Southern White",
+      "scientific": "Ascia monuste",
+      "user": "diego26252",
+      "uri": "https://www.inaturalist.org/observations/393083423",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/720455106/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) diego, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 392951838,
+      "observed_on": "2026-08-20",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "alexisb1104",
+      "uri": "https://www.inaturalist.org/observations/392951838",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/720195302/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) alexisb1104, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 393039958,
+      "observed_on": "2026-08-20",
+      "taxon_id": 49150,
+      "common": "Gulf Fritillary",
+      "scientific": "Dione vanillae",
+      "user": "marcuscosentino",
+      "uri": "https://www.inaturalist.org/observations/393039958",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/720364554/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Marcus Cosentino, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 393005223,
+      "observed_on": "2026-08-20",
+      "taxon_id": 67324,
+      "common": "Barred Yellow",
+      "scientific": "Eurema daira",
+      "user": "rothkopf",
+      "uri": "https://www.inaturalist.org/observations/393005223",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/720298210/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Gray Rothkopf, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 392705361,
+      "observed_on": "2026-08-19",
+      "taxon_id": 69940,
+      "common": "Ceraunus Blue",
+      "scientific": "Hemiargus ceraunus",
+      "user": "rothkopf",
+      "uri": "https://www.inaturalist.org/observations/392705361",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/719711910/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Gray Rothkopf, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 393175058,
+      "observed_on": "2026-08-18",
+      "taxon_id": 60551,
+      "common": "Eastern Tiger Swallowtail",
+      "scientific": "Papilio glaucus",
+      "user": "geraldsavesflorida",
+      "uri": "https://www.inaturalist.org/observations/393175058",
+      "photos": []
+    },
+    {
+      "id": 392701026,
+      "observed_on": "2026-08-18",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "whatch11",
+      "uri": "https://www.inaturalist.org/observations/392701026",
+      "photos": []
+    },
+    {
+      "id": 392696768,
+      "observed_on": "2026-08-18",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "whatch11",
+      "uri": "https://www.inaturalist.org/observations/392696768",
+      "photos": []
+    },
+    {
+      "id": 392696758,
+      "observed_on": "2026-08-18",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "whatch11",
+      "uri": "https://www.inaturalist.org/observations/392696758",
+      "photos": []
+    },
+    {
+      "id": 392696756,
+      "observed_on": "2026-08-18",
+      "taxon_id": 50340,
+      "common": "Fiery Skipper",
+      "scientific": "Hylephila phyleus",
+      "user": "whatch11",
+      "uri": "https://www.inaturalist.org/observations/392696756",
+      "photos": []
+    },
+    {
+      "id": 392696753,
+      "observed_on": "2026-08-18",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "whatch11",
+      "uri": "https://www.inaturalist.org/observations/392696753",
+      "photos": []
+    },
+    {
+      "id": 392475597,
+      "observed_on": "2026-08-18",
+      "taxon_id": 132553,
+      "common": "Mallow Scrub-Hairstreak",
+      "scientific": "Strymon istapa",
+      "user": "wade_baker",
+      "uri": "https://www.inaturalist.org/observations/392475597",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/719266601/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Wade Baker, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 392178596,
+      "observed_on": "2026-08-17",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "acbutterly1969",
+      "uri": "https://www.inaturalist.org/observations/392178596",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718683627/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Amy Carlisle, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 392174856,
+      "observed_on": "2026-08-17",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "acbutterly1969",
+      "uri": "https://www.inaturalist.org/observations/392174856",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718674829/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Amy Carlisle, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 392172895,
+      "observed_on": "2026-08-17",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "acbutterly1969",
+      "uri": "https://www.inaturalist.org/observations/392172895",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718670738/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Amy Carlisle, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 392174764,
+      "observed_on": "2026-08-17",
+      "taxon_id": 49150,
+      "common": "Gulf Fritillary",
+      "scientific": "Dione vanillae",
+      "user": "acbutterly1969",
+      "uri": "https://www.inaturalist.org/observations/392174764",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718674587/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Amy Carlisle, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 392174418,
+      "observed_on": "2026-08-17",
+      "taxon_id": 49150,
+      "common": "Gulf Fritillary",
+      "scientific": "Dione vanillae",
+      "user": "acbutterly1969",
+      "uri": "https://www.inaturalist.org/observations/392174418",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718673842/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Amy Carlisle, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 392249638,
+      "observed_on": "2026-08-17",
+      "taxon_id": 132553,
+      "common": "Mallow Scrub-Hairstreak",
+      "scientific": "Strymon istapa",
+      "user": "whatch11",
+      "uri": "https://www.inaturalist.org/observations/392249638",
+      "photos": []
+    },
+    {
+      "id": 392477880,
+      "observed_on": "2026-08-17",
+      "taxon_id": 1607210,
+      "common": "Mangrove Skipper",
+      "scientific": "Phocides batabano",
+      "user": "whatch11",
+      "uri": "https://www.inaturalist.org/observations/392477880",
+      "photos": []
+    },
+    {
+      "id": 392477840,
+      "observed_on": "2026-08-17",
+      "taxon_id": 1607210,
+      "common": "Mangrove Skipper",
+      "scientific": "Phocides batabano",
+      "user": "whatch11",
+      "uri": "https://www.inaturalist.org/observations/392477840",
+      "photos": []
+    },
+    {
+      "id": 392352810,
+      "observed_on": "2026-08-16",
+      "taxon_id": 48550,
+      "common": "Cloudless Sulphur",
+      "scientific": "Phoebis sennae",
+      "user": "kenkenishere",
+      "uri": "https://www.inaturalist.org/observations/392352810",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/719029878/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) kenkenishere, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 392541102,
+      "observed_on": "2026-08-16",
+      "taxon_id": 50075,
+      "common": "Atala",
+      "scientific": "Eumaeus atala",
+      "user": "jcrossman",
+      "uri": "https://www.inaturalist.org/observations/392541102",
+      "photos": []
+    },
+    {
+      "id": 391865751,
+      "observed_on": "2026-08-16",
+      "taxon_id": 312361,
+      "common": "American Red Admiral",
+      "scientific": "Vanessa atalanta rubria",
+      "user": "jganjay",
+      "uri": "https://www.inaturalist.org/observations/391865751",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718075280/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Jason, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 391803557,
+      "observed_on": "2026-08-16",
+      "taxon_id": 50340,
+      "common": "Fiery Skipper",
+      "scientific": "Hylephila phyleus",
+      "user": "whatch11",
+      "uri": "https://www.inaturalist.org/observations/391803557",
+      "photos": []
+    },
+    {
+      "id": 391748893,
+      "observed_on": "2026-08-16",
+      "taxon_id": 49150,
+      "common": "Gulf Fritillary",
+      "scientific": "Dione vanillae",
+      "user": "joan1155",
+      "uri": "https://www.inaturalist.org/observations/391748893",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/717857284/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Joan Reed, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 391871969,
+      "observed_on": "2026-08-16",
+      "taxon_id": 58509,
+      "common": "Delaware Skipper",
+      "scientific": "Anatrytone logan",
+      "user": "rothkopf",
+      "uri": "https://www.inaturalist.org/observations/391871969",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718086761/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Gray Rothkopf, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 391165637,
+      "observed_on": "2026-08-14",
+      "taxon_id": 50071,
+      "common": "Horace's Duskywing",
+      "scientific": "Erynnis horatius",
+      "user": "michelle63953",
+      "uri": "https://www.inaturalist.org/observations/391165637",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716717888/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Michelle Feeney, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 391223672,
+      "observed_on": "2026-08-14",
+      "taxon_id": 122281,
+      "common": "Red-banded Hairstreak",
+      "scientific": "Calycopis cecrops",
+      "user": "jganjay",
+      "uri": "https://www.inaturalist.org/observations/391223672",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716831143/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Jason, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 390904703,
+      "observed_on": "2026-08-13",
+      "taxon_id": 50931,
+      "common": "Gray Hairstreak",
+      "scientific": "Strymon melinus",
+      "user": "ufokingdom",
+      "uri": "https://www.inaturalist.org/observations/390904703",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716205174/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) kyva, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 390832599,
+      "observed_on": "2026-08-13",
+      "taxon_id": 50075,
+      "common": "Atala",
+      "scientific": "Eumaeus atala",
+      "user": "mmhelmstetter",
+      "uri": "https://www.inaturalist.org/observations/390832599",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716071669/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) mmhelmstetter, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 390865210,
+      "observed_on": "2026-08-13",
+      "taxon_id": 1457202,
+      "common": "White Checkered-Skipper",
+      "scientific": "Burnsius albezens",
+      "user": "rothkopf",
+      "uri": "https://www.inaturalist.org/observations/390865210",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716131674/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Gray Rothkopf, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 390417195,
+      "observed_on": "2026-08-11",
+      "taxon_id": 1457202,
+      "common": "White Checkered-Skipper",
+      "scientific": "Burnsius albezens",
+      "user": "diego26252",
+      "uri": "https://www.inaturalist.org/observations/390417195",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/715261789/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) diego, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 391167696,
+      "observed_on": "2026-08-11",
+      "taxon_id": 51743,
+      "common": "Queen",
+      "scientific": "Danaus gilippus",
+      "user": "urbanwoods",
+      "uri": "https://www.inaturalist.org/observations/391167696",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716722228/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) urbanwoods, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 390320580,
+      "observed_on": "2026-08-11",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "whisper_in_the_chaos",
+      "uri": "https://www.inaturalist.org/observations/390320580",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/715069825/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) whisper_in_the_chaos, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 390076837,
+      "observed_on": "2026-08-10",
+      "taxon_id": 85024,
+      "common": "Eastern Giant Swallowtail",
+      "scientific": "Heraclides cresphontes",
+      "user": "adriel84804",
+      "uri": "https://www.inaturalist.org/observations/390076837",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/714592945/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Adriel Brito, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 389971008,
+      "observed_on": "2026-08-10",
+      "taxon_id": 49150,
+      "common": "Gulf Fritillary",
+      "scientific": "Dione vanillae",
+      "user": "josh42290",
+      "uri": "https://www.inaturalist.org/observations/389971008",
+      "photos": []
+    },
+    {
+      "id": 389802145,
+      "observed_on": "2026-08-08",
+      "taxon_id": 49765,
+      "common": "Florida Zebra Longwing",
+      "scientific": "Heliconius charithonia tuckeri",
+      "user": "angela389",
+      "uri": "https://www.inaturalist.org/observations/389802145",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/714050134/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) Angela Thomas, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 390335575,
+      "observed_on": "2026-08-08",
+      "taxon_id": 49761,
+      "common": "White Peacock",
+      "scientific": "Anartia jatrophae",
+      "user": "richfisc",
+      "uri": "https://www.inaturalist.org/observations/390335575",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/715101219/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) richfisc, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 394882678,
+      "observed_on": "2026-08-08",
+      "taxon_id": 49766,
+      "common": "Zebra Longwing",
+      "scientific": "Heliconius charithonia",
+      "user": "union_nc",
+      "uri": "https://www.inaturalist.org/observations/394882678",
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/723988003/medium.jpg",
+          "license": "cc-by-nc",
+          "attribution": "(c) union_nc, some rights reserved (CC BY-NC)"
+        }
+      ]
+    },
+    {
+      "id": 389138185,
+      "observed_on": "2026-08-07",
+      "taxon_id": 132553,
+      "common": "Mallow Scrub-Hairstreak",
+      "scientific": "Strymon istapa",
+      "user": "trueforester",
+      "uri": "https://www.inaturalist.org/observations/389138185",
+      "photos": []
+    },
+    {
+      "id": 388461268,
+      "observed_on": "2026-08-05",
+      "taxon_id": 48662,
+      "common": "Monarch",
+      "scientific": "Danaus plexippus",
+      "user": "josephgray",
+      "uri": "https://www.inaturalist.org/observations/388461268",
+      "photos": []
+    }
+  ]
+}
