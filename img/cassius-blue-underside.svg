@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Cassius Blue underside">
+  <rect width="400" height="300" fill="#f4efe4"/>
+  <g transform="translate(0,8)">
+  <rect x="90" y="80" width="220" height="7" fill="#141414"/><rect x="90" y="96" width="220" height="7" fill="#141414"/><rect x="90" y="112" width="220" height="7" fill="#141414"/><rect x="90" y="128" width="220" height="7" fill="#141414"/><rect x="90" y="144" width="220" height="7" fill="#141414"/><rect x="90" y="160" width="220" height="7" fill="#141414"/><rect x="90" y="176" width="220" height="7" fill="#141414"/><rect x="90" y="192" width="220" height="7" fill="#141414"/><rect x="90" y="208" width="220" height="7" fill="#141414"/>
+  </g>
+  <text x="200" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#141414">Cassius Blue</text>
+  <text x="200" y="286" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#141414">underside</text>
+</svg>

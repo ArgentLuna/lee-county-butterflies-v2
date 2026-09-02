@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Ceraunus Blue underside">
+  <rect width="400" height="300" fill="#141414"/>
+  <g transform="translate(0,8)">
+  <circle cx="110" cy="120" r="6" fill="#f4efe4"/><circle cx="136" cy="144" r="6" fill="#f4efe4"/><circle cx="162" cy="120" r="6" fill="#f4efe4"/><circle cx="188" cy="144" r="6" fill="#f4efe4"/><circle cx="214" cy="120" r="6" fill="#f4efe4"/><circle cx="240" cy="144" r="6" fill="#f4efe4"/><circle cx="266" cy="120" r="6" fill="#f4efe4"/><circle cx="292" cy="144" r="6" fill="#f4efe4"/><circle cx="170" cy="200" r="8" fill="#f4efe4"/><circle cx="230" cy="200" r="8" fill="#f4efe4"/>
+  </g>
+  <text x="200" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">Ceraunus Blue</text>
+  <text x="200" y="286" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">underside</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Cassius Blue hero">
+  <rect width="400" height="300" fill="#141414"/>
+  <g>
+  <rect x="44" y="36" width="312" height="12" fill="#f4efe4"/><rect x="44" y="58" width="312" height="12" fill="#f4efe4"/><rect x="44" y="80" width="312" height="12" fill="#f4efe4"/><rect x="44" y="102" width="312" height="12" fill="#f4efe4"/><rect x="44" y="124" width="312" height="12" fill="#f4efe4"/><rect x="44" y="146" width="312" height="12" fill="#f4efe4"/><rect x="44" y="168" width="312" height="12" fill="#f4efe4"/><rect x="44" y="190" width="312" height="12" fill="#f4efe4"/><rect x="44" y="212" width="312" height="12" fill="#f4efe4"/><rect x="44" y="234" width="312" height="12" fill="#f4efe4"/>
+  </g>
+  <text x="200" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">Cassius Blue</text>
+  <text x="200" y="286" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">hero</text>
+</svg>
