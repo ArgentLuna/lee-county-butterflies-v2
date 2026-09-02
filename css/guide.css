@@ -1,0 +1,495 @@
+/* Cape Coral butterflies — type 28/22/18/16/15 for yard reading */
+
+:root {
+  --paper: #f4efe4;
+  --ink: #141414;
+  --display: 28px;
+  --title: 22px;
+  --body: 18px;
+  --secondary: 16px;
+  --quiet: 15px;
+  --s4: 4px;
+  --s8: 8px;
+  --s12: 12px;
+  --s16: 16px;
+  --s24: 24px;
+  --hair: 2px;
+  --chip-radius: 2px;
+  --thumb: 76px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: var(--body);
+  line-height: 1.35;
+  font-weight: 400;
+}
+
+img {
+  border: 0;
+  max-width: 100%;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+}
+
+.app {
+  max-width: 28rem;
+  margin: 0 auto;
+  background: var(--paper);
+}
+
+/* --- Home --- */
+
+.home-top {
+  position: sticky;
+  top: 0;
+  z-index: 4;
+  background: var(--paper);
+  border-bottom: var(--hair) solid var(--ink);
+}
+
+.home-lines {
+  padding: var(--s16) var(--s16) 0;
+}
+
+.home-line {
+  margin: 0;
+  font-size: var(--title);
+  font-weight: 650;
+  line-height: 1.25;
+}
+
+.home-sub {
+  margin: var(--s4) 0 0;
+  font-size: var(--secondary);
+  font-weight: 400;
+  line-height: 1.3;
+  color: var(--ink);
+}
+
+.filters {
+  padding: var(--s12) var(--s16) var(--s12);
+}
+
+/* --- Seen lately (v2 iNat cache) --- */
+
+.seen-lately {
+  padding: var(--s12) var(--s16) var(--s12);
+  border-bottom: var(--hair) solid var(--ink);
+}
+
+.seen-lately[hidden] {
+  display: none;
+}
+
+.seen-lately-title {
+  margin: 0;
+  font-size: var(--body);
+  font-weight: 650;
+  line-height: 1.25;
+}
+
+.seen-lately-meta {
+  margin: var(--s4) 0 0;
+  font-size: var(--quiet);
+  line-height: 1.3;
+}
+
+.seen-lately-list {
+  margin: var(--s8) 0 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: var(--s8);
+}
+
+.seen-lately-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--s8);
+  font-size: var(--body);
+  line-height: 1.3;
+}
+
+.seen-lately-link {
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.seen-lately-plain {
+  font-weight: 400;
+}
+
+.seen-lately-count {
+  font-size: var(--secondary);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.seen-lately-credit {
+  margin: var(--s8) 0 0;
+  font-size: var(--quiet);
+  line-height: 1.3;
+}
+
+.chip-seen-lately {
+  background: var(--paper);
+  color: var(--ink);
+  font-weight: 500;
+  border-style: dashed;
+}
+
+
+.filter-lead {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s8);
+}
+
+.filter-group {
+  margin-top: var(--s8);
+}
+
+.filter-group-label {
+  display: block;
+  font-size: var(--secondary);
+  font-weight: 400;
+  line-height: 1.3;
+  margin: 0 0 var(--s4);
+  color: var(--ink);
+}
+
+.filter-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s8);
+}
+
+.fchip {
+  display: inline-block;
+  font-size: var(--quiet);
+  line-height: 1.2;
+  font-weight: 500;
+  padding: var(--s4) var(--s8);
+  border: var(--hair) solid var(--ink);
+  border-radius: var(--chip-radius);
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.fchip[aria-pressed="true"] {
+  background: var(--ink);
+  color: var(--paper);
+  font-weight: 700;
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  gap: var(--s12);
+  padding: var(--s8) var(--s16);
+  text-decoration: none;
+  color: var(--ink);
+  border-bottom: var(--hair) solid var(--ink);
+  min-height: calc(var(--thumb) + var(--s16));
+}
+
+.card[hidden] {
+  display: none;
+}
+
+.card-photo {
+  width: var(--thumb);
+  height: var(--thumb);
+  flex: 0 0 var(--thumb);
+  overflow: hidden;
+  background: var(--ink);
+}
+
+.card-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.card-text {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--s4);
+}
+
+.card-name {
+  font-size: var(--body);
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+/* --- Chips --- */
+
+.chip {
+  display: inline-block;
+  font-size: var(--quiet);
+  line-height: 1.2;
+  padding: var(--s4) var(--s8);
+  border-radius: var(--chip-radius);
+  border: var(--hair) solid var(--ink);
+  white-space: nowrap;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+.chip-common {
+  background: var(--ink);
+  color: var(--paper);
+  font-weight: 700;
+}
+
+.chip-possible {
+  background: var(--paper);
+  color: var(--ink);
+  font-weight: 500;
+}
+
+.chip-unlikely {
+  background: var(--paper);
+  color: var(--ink);
+  font-weight: 400;
+}
+
+.chip-colonizer {
+  background: var(--ink);
+  color: var(--paper);
+  font-weight: 500;
+  padding-left: 14px;
+  position: relative;
+}
+
+.chip-colonizer::before {
+  content: "";
+  position: absolute;
+  left: 6px;
+  top: 5px;
+  bottom: 5px;
+  width: 2px;
+  background: var(--paper);
+}
+
+/* --- Species page --- */
+
+.backbar {
+  position: sticky;
+  top: 0;
+  z-index: 4;
+  background: var(--paper);
+  border-bottom: var(--hair) solid var(--ink);
+}
+
+.back {
+  display: flex;
+  align-items: center;
+  gap: var(--s8);
+  padding: var(--s12) var(--s16);
+  min-height: 48px;
+  text-decoration: none;
+  color: var(--ink);
+  font-size: var(--title);
+  font-weight: 650;
+  line-height: 1.2;
+}
+
+.back-mark {
+  display: block;
+  width: 12px;
+  height: 12px;
+  flex: 0 0 12px;
+  border-left: var(--hair) solid var(--ink);
+  border-bottom: var(--hair) solid var(--ink);
+  transform: rotate(45deg);
+  margin-top: -2px;
+}
+
+.hero {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: var(--ink);
+  display: block;
+}
+
+.hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.names {
+  padding: var(--s12) var(--s16) 0;
+}
+
+.common {
+  margin: 0;
+  font-size: var(--display);
+  font-weight: 650;
+  line-height: 1.2;
+}
+
+.scientific {
+  margin: var(--s4) 0 0;
+  font-size: var(--secondary);
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.3;
+  color: var(--ink);
+}
+
+.names .chip {
+  margin-top: var(--s8);
+}
+
+.why {
+  padding: var(--s16) var(--s16) 0;
+}
+
+.sec-label {
+  display: block;
+  font-size: var(--secondary);
+  font-weight: 400;
+  line-height: 1.3;
+  margin: 0 0 var(--s8);
+  color: var(--ink);
+}
+
+.why-text,
+.where-text,
+.mig-text,
+.la-how,
+.host-common {
+  margin: 0;
+  font-size: var(--body);
+  font-weight: 400;
+  line-height: 1.35;
+}
+
+.secondary {
+  padding: var(--s24) var(--s16) 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--s8);
+}
+
+.secondary.two {
+  grid-template-columns: 1fr 1fr;
+}
+
+.secondary figure {
+  margin: 0;
+}
+
+.secondary img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+}
+
+.section {
+  padding: var(--s24) var(--s16) 0;
+}
+
+.section:last-child {
+  padding-bottom: var(--s24);
+}
+
+.host {
+  margin: 0 0 var(--s8);
+}
+
+.host:last-child {
+  margin-bottom: 0;
+}
+
+.host-sci {
+  display: block;
+  font-size: var(--secondary);
+  font-style: italic;
+  line-height: 1.3;
+  color: var(--ink);
+  margin-top: 2px;
+}
+
+.host-extra {
+  display: block;
+  font-size: var(--body);
+  line-height: 1.35;
+  margin-top: var(--s4);
+}
+
+.la {
+  margin: 0 0 var(--s8);
+}
+
+.la:last-child {
+  margin-bottom: 0;
+}
+
+.la-name {
+  display: block;
+  font-size: var(--secondary);
+  font-weight: 400;
+  line-height: 1.3;
+  margin: 0 0 var(--s4);
+}
+
+.page-end {
+  height: var(--s24);
+}
+
+.host-sci-inline {
+  display: inline;
+  font-size: var(--secondary);
+  font-style: italic;
+  line-height: 1.3;
+  color: var(--ink);
+}
