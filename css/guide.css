@@ -193,9 +193,14 @@ a {
 }
 
 .seen-lately-credit {
-  margin: var(--s8) var(--s16) 0 0;
+  margin: 0;
+  padding: var(--s16);
   font-size: var(--quiet);
   line-height: 1.3;
+}
+
+.seen-lately-credit[hidden] {
+  display: none;
 }
 
 
@@ -321,7 +326,6 @@ a {
   padding: var(--s4) var(--s8);
   border-radius: var(--chip-radius);
   border: var(--hair) solid var(--ink);
-  white-space: nowrap;
   color: var(--ink);
   background: var(--paper);
 }
