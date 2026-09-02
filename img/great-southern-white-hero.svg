@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Great Southern White hero">
+  <rect width="400" height="300" fill="#141414"/>
+  <g>
+  <circle cx="200" cy="136" r="96" fill="#f4efe4"/>
+  </g>
+  <text x="200" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">Great Southern White</text>
+  <text x="200" y="286" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">hero</text>
+</svg>
