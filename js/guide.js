@@ -236,6 +236,8 @@
       list.appendChild(li);
     }
     section.removeAttribute("hidden");
+    var credit = root.querySelector("[data-seen-lately-credit]");
+    if (credit) credit.removeAttribute("hidden");
   }
 
   function loadSeenLately(root) {
