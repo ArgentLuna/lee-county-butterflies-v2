@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Polydamas Swallowtail caterpillar">
+  <rect width="400" height="300" fill="#f4efe4"/>
+  <g>
+  <rect x="40" y="28" width="320" height="200" fill="#141414"/><rect x="60" y="196" width="280" height="20" fill="#f4efe4"/>
+  </g>
+  <text x="200" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#141414">Polydamas Swallowtail</text>
+  <text x="200" y="286" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#141414">caterpillar</text>
+</svg>

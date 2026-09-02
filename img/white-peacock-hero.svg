@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="White Peacock hero">
+  <rect width="400" height="300" fill="#141414"/>
+  <g>
+  <circle cx="150" cy="125" r="78" fill="#f4efe4"/><circle cx="268" cy="175" r="58" fill="#f4efe4"/><rect x="48" y="36" width="304" height="18" fill="#f4efe4"/>
+  </g>
+  <text x="200" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">White Peacock</text>
+  <text x="200" y="286" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">hero</text>
+</svg>

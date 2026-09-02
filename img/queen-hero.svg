@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Queen hero">
+  <rect width="400" height="300" fill="#141414"/>
+  <g>
+  <line x1="200" y1="32" x2="60" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="80" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="100" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="120" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="140" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="160" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="180" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="200" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="220" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="240" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="260" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="280" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="300" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="320" y2="242" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="32" x2="340" y2="242" stroke="#f4efe4" stroke-width="4"/>
+  </g>
+  <text x="200" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">Queen</text>
+  <text x="200" y="286" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">hero</text>
+</svg>

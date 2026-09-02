@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Queen underside">
+  <rect width="400" height="300" fill="#f4efe4"/>
+  <g transform="translate(0,8)">
+  <line x1="200" y1="80" x2="100" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="116" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="132" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="148" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="164" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="180" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="196" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="212" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="228" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="244" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="260" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="276" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="292" y2="230" stroke="#141414" stroke-width="3"/><line x1="200" y1="80" x2="308" y2="230" stroke="#141414" stroke-width="3"/>
+  </g>
+  <text x="200" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#141414">Queen</text>
+  <text x="200" y="286" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#141414">underside</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Monarch underside">
+  <rect width="400" height="300" fill="#141414"/>
+  <g transform="translate(0,8)">
+  <line x1="200" y1="70" x2="200" y2="230" stroke="#f4efe4" stroke-width="4"/><line x1="200" y1="90" x2="110" y2="220" stroke="#f4efe4" stroke-width="3"/><line x1="200" y1="90" x2="145" y2="220" stroke="#f4efe4" stroke-width="3"/><line x1="200" y1="90" x2="175" y2="220" stroke="#f4efe4" stroke-width="3"/><line x1="200" y1="90" x2="225" y2="220" stroke="#f4efe4" stroke-width="3"/><line x1="200" y1="90" x2="255" y2="220" stroke="#f4efe4" stroke-width="3"/><line x1="200" y1="90" x2="290" y2="220" stroke="#f4efe4" stroke-width="3"/>
+  </g>
+  <text x="200" y="268" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">Monarch</text>
+  <text x="200" y="286" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#f4efe4">underside</text>
+</svg>
