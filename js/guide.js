@@ -167,23 +167,8 @@
     return null;
   }
 
-  function displayName(row) {
-    return row.common || row.scientific || "Unknown";
-  }
-
-  function badgeSeenLately(root, matchedSlugs) {
-    var cards = root.querySelectorAll("[data-species]");
-    for (var i = 0; i < cards.length; i++) {
-      var slug = cards[i].getAttribute("data-species");
-      if (!matchedSlugs[slug]) continue;
-      var text = cards[i].querySelector(".card-text");
-      if (!text) continue;
-      if (text.querySelector(".chip-seen-lately")) continue;
-      var badge = document.createElement("span");
-      badge.className = "chip chip-seen-lately";
-      badge.textContent = "seen lately";
-      text.appendChild(badge);
-    }
+  function guideCard(root, slug) {
+    return root.querySelector('[data-species="' + slug + '"]');
   }
 
   function renderSeenLately(root, countsPayload) {
@@ -193,42 +178,64 @@
     var rows = (countsPayload && countsPayload.species_counts) || [];
     if (!rows.length) return;
 
-    list.textContent = "";
-    var matched = {};
+    var matched = [];
+    var seen = {};
     for (var i = 0; i < rows.length; i++) {
       var row = rows[i];
       var slug = matchGuide(row);
+      if (!slug || seen[slug]) continue;
+      var card = guideCard(root, slug);
+      if (!card) continue;
+      seen[slug] = true;
+      matched.push({
+        slug: slug,
+        count: row.count != null ? Number(row.count) : 0,
+        card: card,
+      });
+    }
+    matched.sort(function (a, b) {
+      return b.count - a.count;
+    });
+    matched = matched.slice(0, 8);
+    if (!matched.length) return;
+
+    list.textContent = "";
+    for (var j = 0; j < matched.length; j++) {
+      var item = matched[j];
+      var nameEl = item.card.querySelector(".card-name");
+      var imgEl = item.card.querySelector(".card-photo img");
+      var name = nameEl ? nameEl.textContent : item.slug;
+      var src = imgEl ? imgEl.getAttribute("src") : "";
       var li = document.createElement("li");
       li.className = "seen-lately-item";
-      var name = displayName(row);
-      var count = row.count != null ? String(row.count) : "";
-      if (slug) {
-        matched[slug] = true;
-        var a = document.createElement("a");
-        a.href = "species/" + slug + ".html";
-        a.className = "seen-lately-link";
-        a.textContent = name;
+      var a = document.createElement("a");
+      a.href = "species/" + item.slug + ".html";
+      a.className = "seen-lately-link";
+      var thumb = document.createElement("span");
+      thumb.className = "seen-lately-thumb";
+      if (src) {
+        var img = document.createElement("img");
+        img.src = src;
+        img.alt = "";
+        img.width = 56;
+        img.height = 56;
+        thumb.appendChild(img);
+      }
+      var nm = document.createElement("span");
+      nm.className = "seen-lately-name";
+      nm.textContent = name;
+      a.appendChild(thumb);
+      a.appendChild(nm);
+      if (item.count) {
         var cnt = document.createElement("span");
         cnt.className = "seen-lately-count";
-        cnt.textContent = count;
-        li.appendChild(a);
-        li.appendChild(document.createTextNode(" "));
-        li.appendChild(cnt);
-      } else {
-        var plain = document.createElement("span");
-        plain.className = "seen-lately-plain";
-        plain.textContent = name;
-        var cnt2 = document.createElement("span");
-        cnt2.className = "seen-lately-count";
-        cnt2.textContent = count;
-        li.appendChild(plain);
-        li.appendChild(document.createTextNode(" "));
-        li.appendChild(cnt2);
+        cnt.textContent = String(item.count);
+        a.appendChild(cnt);
       }
+      li.appendChild(a);
       list.appendChild(li);
     }
     section.removeAttribute("hidden");
-    badgeSeenLately(root, matched);
   }
 
   function loadSeenLately(root) {
